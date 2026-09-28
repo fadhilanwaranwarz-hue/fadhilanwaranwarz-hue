@@ -53,29 +53,21 @@ learning new technologies, and building creative projects.
 
 ---
 
-## 📊 GitHub Stats
+
+
+## 🚀 My GitHub
 
 <p align="left">
-
-<img src="https://github-readme-stats.vercel.app/api?username=fadhilanwaranwarz-hue&show_icons=true&theme=tokyonight" />
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="left">
-
-<img src="https://streak-stats.demolab.com?user=fadhilanwaranwarz-hue&theme=tokyonight" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=fadhilanwaranwarz-hue&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
 
 ## 👀 Profile Views
 
-<img src="https://komarev.com/ghpvc/?username=fadhilanwaranwarz-hue&label=Profile%20Views&color=0e75b6&style=flat" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=fadhilanwaranwarz-hue&label=Profile%20Views&color=blue&style=flat" />
+</p>
 
 ---
 
